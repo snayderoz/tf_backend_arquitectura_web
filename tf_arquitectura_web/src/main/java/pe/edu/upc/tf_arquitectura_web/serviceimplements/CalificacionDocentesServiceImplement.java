@@ -3,7 +3,7 @@ package pe.edu.upc.tf_arquitectura_web.serviceimplements;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import pe.edu.upc.tf_arquitectura_web.entities.CalificacionDocente;
-import pe.edu.upc.tf_arquitectura_web.entities.Curso;
+//import pe.edu.upc.tf_arquitectura_web.entities.Curso;
 import pe.edu.upc.tf_arquitectura_web.repositories.ICalificacionDocenteRepository;
 import pe.edu.upc.tf_arquitectura_web.serviceinterfaces.ICalificacionDocenteService;
 
